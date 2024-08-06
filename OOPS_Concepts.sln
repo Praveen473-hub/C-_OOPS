@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPS_Concepts", "OOPS_Concepts\OOPS_Concepts.csproj", "{62DE3A2D-8494-4782-9B10-F663BB003EE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceConcepts", "InheritanceConcepts\InheritanceConcepts.csproj", "{A270BD48-FD8D-4883-BF59-E91356C97E78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62DE3A2D-8494-4782-9B10-F663BB003EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DE3A2D-8494-4782-9B10-F663BB003EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DE3A2D-8494-4782-9B10-F663BB003EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DE3A2D-8494-4782-9B10-F663BB003EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A270BD48-FD8D-4883-BF59-E91356C97E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A270BD48-FD8D-4883-BF59-E91356C97E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A270BD48-FD8D-4883-BF59-E91356C97E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A270BD48-FD8D-4883-BF59-E91356C97E78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05C92711-97C9-48E9-BAC8-57A05A18C9FF}
+	EndGlobalSection
+EndGlobal
